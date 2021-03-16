@@ -1,5 +1,5 @@
 # CTC22
-This is the home repository for [CTC22: the Environment](https://codethecity.org/code-the-city-22-the-environment/), which runs Saturday 20th March 2021 and Sunday 21rst March 2021. 
+This is the home repository for [CTC22: the Environment](https://codethecity.org/code-the-city-22-the-environment/), which runs Saturday 20th March 2021 and Sunday 21rst March 2021. This is a continuation of [CTC21: Put Your City on the Map](https://github.com/CodeTheCity/CTC21)
 
 On Saturday we x participants working on y challenges. On Sunday we had y participants working on x challenges.
 
