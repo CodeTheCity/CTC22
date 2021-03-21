@@ -1,7 +1,7 @@
 # CTC22
 This is the home repository for [CTC22: the Environment](https://codethecity.org/code-the-city-22-the-environment/), which runs Saturday 20th March 2021 and Sunday 21rst March 2021. This is a continuation of [CTC21: Put Your City on the Map](https://github.com/CodeTheCity/CTC21)
 
-On Saturday we x participants working on y challenges. On Sunday we had y participants working on x challenges.
+On Saturday we had 13 participants working on 3 challenges. On Sunday we had y participants working on x challenges.
 
 We used our main Zoom session to hold the space and alternated between main room where everyone should be together, and breakout rooms for group work in 90 minutes blocks of time. We then came back together to check in on how teams were getting on, and to share information and offers of help.
 
@@ -18,22 +18,12 @@ We used Slack and our Code the City workgroup as the back channel between rooms,
 
 Establishing what a bio-regional dashboard for the Dee valley  would look like, what the  content  would be, data sources, and how to build it.
 
-### Doric Tiles
-
-[Doric Tiles](https://github.com/CodeTheCity/ctc21-doric-tiles)
-
-Translating place names into Scots in the OSM - specifically Doric, for the north-east region, but expandable into other dialects of the Scots language for other regionalities.
-
-[Doric Tiles SwiftUI](https://github.com/CodeTheCity/ctc21-doric-tiles-SwiftUI)
-
-A simple SwiftUI app that makes use of the translated data and displays it as a list and places it on a map.
-
-### Nautical Wrecks
-[Nautical Wrecks](https://github.com/CodeTheCity/ctc21_nautical_wrecks) 
-
-Finding data about the shipwrecks of the North East, adding those to Wikidata. 
-
 ### Waste Wizards
 [Waste Wizards](https://github.com/CodeTheCity/ctc21_waste_wizards)
 
 A project exploring the use of open data in the management of waste and recycling, and particularly at the use of Open Streetmap, Wikidata and how those data respoitories support informed decision making around waste and recycling. 
+
+### MSP Hustings: meetyournextmsp
+[Meet Your Next MSP](https://github.com/meetyournextmsp)
+
+A project pulling together information about the candidates for the elections to Scottish parliament in May 2021.
